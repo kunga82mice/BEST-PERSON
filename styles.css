@@ -1,0 +1,9 @@
+img{ height :200px;} 
+body{background-color: #09EE86; text-align:center;}
+h2 {font-family: 'Black And White Picture', 'Spicy Rice', cursive;
+font-size: 30px;}
+body {
+background: url("http://whistclub.org/images/awards.jpg");}
+p{ color: red; font-size: 20px; } 
+p.h3{ color: green; } 
+p.h3{ font-size: 12px; }
